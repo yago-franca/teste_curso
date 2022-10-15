@@ -12,3 +12,18 @@ git -v - para versão
 4- depois que o arquivo foi alterado você comita
    git commit -a -m   
 (aqui eu fiz o commit para teste)
+
+5- Criar um repositorio no git hub
+
+6- Precisa linkar o repositorio local com o remoto
+   git remote add origin https://github.com/yago-franca/teste_curso.git
+
+7- nomenado a branch principal como main
+   git branch -M main
+
+8- Enviar os arquivos para o repositorio remoto
+   git push -u origin main
+
+9- trocar de branch
+   git checkout -b "teste" (o -b serve para criar uma nova)    
+   
