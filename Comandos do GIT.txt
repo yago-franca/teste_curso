@@ -27,3 +27,7 @@ git -v - para versão
 9- trocar de branch
    git checkout -b "teste" (o -b serve para criar uma nova)    
    
+10- criar uma branch no repositorio remoto
+    git push --set-upstream origin teste
+
+    
