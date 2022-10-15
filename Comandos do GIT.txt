@@ -46,6 +46,6 @@ git -v - para versão
    git pull
 
 16- para clonar o projeto para local
-   git clone linkdogit
-   
-      
+   git clone linkdoGit
+
+
