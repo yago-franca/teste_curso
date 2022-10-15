@@ -30,4 +30,22 @@ git -v - para versão
 10- criar uma branch no repositorio remoto
     git push --set-upstream origin teste
 
-    
+11- mudando branch para a main
+   git checkout main
+
+12- listando as branchs
+   git branch   
+
+13- criando merge com a master
+    git merge nomedabranch
+
+14-enviando alterações
+   git push
+
+15- para atualizar o local vindo do remoto
+   git pull
+
+16- para clonar o projeto para local
+   git clone linkdogit
+   
+      
