@@ -1,0 +1,14 @@
+Comandos do GIT
+
+git -v - para versão
+
+1- Iniciar o projeto 
+   git init
+
+2- git status
+3- para adicionar o versionamento
+   git add . (o ponto diz que é tudo)
+
+4- depois que o arquivo foi alterado você comita
+   git commit -a -m   
+(aqui eu fiz o commit para teste)
